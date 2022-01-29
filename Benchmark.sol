@@ -11,7 +11,7 @@ contract Benchmark{
 
 }
 
-contract TestBenchamrk is Benchmark{
+contract TestBenchmark is Benchmark{
 
     function echidna_test_pass() public view returns (bool) {
         return true;
